@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80e0b0cd-82eb-4020-a6bb-819bfc8a9d35" name="Default Changelist" comment="" />
+    <list default="true" id="80e0b0cd-82eb-4020-a6bb-819bfc8a9d35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstTask/FirstTask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TriangleBanana.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TriangleBanana.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstTask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdTask.py" beforeDir="false" afterPath="$PROJECT_DIR$/ThirdTask/ThirdTask.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZDmbXUfQGhxbxGif8T9Ibt7oBB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +35,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\piotr\PycharmProjects\TriangleBanana\ThirdTask" />
+      <recent name="C:\Users\piotr\PycharmProjects\TriangleBanana\FirstTask" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="TriangleBanana" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="FirstTask" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="TriangleBanana" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,7 +59,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThirdTask.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\piotr\PycharmProjects\TriangleBanana\FirstTask\FirstTask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,6 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584382110114</updated>
       <workItem from="1584382120012" duration="3838000" />
+      <workItem from="1584386187530" duration="2681000" />
+      <workItem from="1584468721072" duration="5806000" />
     </task>
     <servers />
   </component>
@@ -67,30 +89,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584382471619">
+    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584386201257">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584382471619" />
+    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584386201257" />
     <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1584382147721">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584382147721" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1584385962019">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1584475880511">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584385962019" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1584385962019">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584475880511" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1584475880511">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584385962019" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1584385962019">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584475880511" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1584475880511">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584385962019" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1584385962019">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584475880511" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1584475880511">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584385962019" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584475880511" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1584475407467">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584475407467" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1584475407467">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584475407467" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1584475407467">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584475407467" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1584475407467">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160/1920.0.1920.1160/-1280.75.1280.984@0.0.1920.1160" timestamp="1584475407467" />
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1584385771673">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -98,5 +136,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TriangleBanana$TriangleBanana.coverage" NAME="TriangleBanana Coverage Results" MODIFIED="1584384601275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/TriangleBanana$FirstTask.coverage" NAME="FirstTask Coverage Results" MODIFIED="1584475880504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
 </project>
