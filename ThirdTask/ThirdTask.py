@@ -25,9 +25,9 @@ for number in range(lowerCap, upperCap + 1):
     number_txt = str(number)
     if check_digits_increasing(number_txt):
         if check_digit_groups(number_txt):
-            print(number_txt)
+            # print(number_txt)
             counter += 1
-print("number of matching passwords: " + str(counter))
+print("matching passwords: " + str(counter))
 
 
 
